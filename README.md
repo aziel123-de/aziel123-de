@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=F78DA7&center=true&vCenter=true&width=600&lines=Hi+I'm+Hazel+👋;Student+Developer+from+the+Philippines+🇵🇭;Web+Development+%7C+UI+Design+%7C+Systems;Always+learning+and+building+🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=F78DA7&center=true&vCenter=true&width=600&lines=Hi+I'm+Hazel;Student+Developer+from+the+Philippines+🇵🇭;Web+Development+%7C+UI+Design+%7C+Systems;Always+learning+and+building+🚀" />
 </p>
 
 # 💫 About Me
