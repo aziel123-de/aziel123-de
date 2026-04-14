@@ -1,9 +1,7 @@
-<p align="center">
-  🇵🇭
-</p>
+
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00F5FF&center=true&vCenter=true&width=850&lines=Hi+I'm+Hazel;Student+Developer;Web+Development+%7C+UI+Design+%7C+System+Builder;Always+learning+and+building+🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=800&color=00FF00&center=true&vCenter=true&width=800&lines=%24+whoami;>+Hazel+-+Student+Developer;>+Philippines+based+dev;>+Building+web+apps+and+UI+systems;>+Currently+learning+React+%26+Firebase;>+status:+ONLINE+✔" />
 </p>
 
 # 💫 About Me
