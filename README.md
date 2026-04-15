@@ -21,8 +21,8 @@
  
 </div>
  
-text
-🎓  Student Developer from the Philippines 🇵🇭
+
+🎓  Student Developer from the Philippines 🇵🇭 
 💻  Passionate about Web Dev & Building Real-World Systems
 🎨  I love creating interactive UIs, dashboards & modern web apps
 📚  Currently exploring TypeScript, React, Supabase & Firebase
