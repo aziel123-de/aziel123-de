@@ -103,12 +103,14 @@
  
 ---
  
-<!-- Trophies -->
+<!-- Achievements & Highlights -->
 <div align="center">
 
-## 🏆 GitHub Trophies
+## 🏆 Highlights & Achievements
 
-<img src="https://github-profile-trophy-winning.vercel.app/?username=aziel123-de&theme=flat&no-frame=true" />
+[![GitHub Commits](https://img.shields.io/badge/GitHub-Active_Developer-FF6B9D?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aziel123-de)
+[![Repositories](https://img.shields.io/badge/Projects-Web_%26_Mobile-C44DFF?style=for-the-badge&logo=react&logoColor=white)](https://github.com/aziel123-de?tab=repositories)
+[![Frontend Dev](https://img.shields.io/badge/Specialization-Frontend_%26_Fullstack-00D4AA?style=for-the-badge&logo=typescript&logoColor=white)](https://github.com/aziel123-de)
 
 </div>
  
