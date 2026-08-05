@@ -108,9 +108,22 @@
 
 ## 🏆 Highlights & Achievements
 
-[![GitHub Commits](https://img.shields.io/badge/GitHub-Active_Developer-FF6B9D?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aziel123-de)
-[![Repositories](https://img.shields.io/badge/Projects-Web_%26_Mobile-C44DFF?style=for-the-badge&logo=react&logoColor=white)](https://github.com/aziel123-de?tab=repositories)
-[![Frontend Dev](https://img.shields.io/badge/Specialization-Frontend_%26_Fullstack-00D4AA?style=for-the-badge&logo=typescript&logoColor=white)](https://github.com/aziel123-de)
+<p align="center">
+  <a href="https://github.com/aziel123-de">
+    <img src="https://img.shields.io/badge/Role-Frontend_%26_Fullstack_Dev-FF6B9D?style=for-the-badge&logo=react&logoColor=white" alt="Role" />
+  </a>
+  <a href="https://github.com/aziel123-de?tab=repositories">
+    <img src="https://img.shields.io/badge/Projects-Interactive_Web_Apps-C44DFF?style=for-the-badge&logo=typescript&logoColor=white" alt="Projects" />
+  </a>
+  <a href="https://github.com/aziel123-de">
+    <img src="https://img.shields.io/badge/Status-Open_for_Opportunities-00D4AA?style=for-the-badge&logo=github&logoColor=white" alt="Status" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Location-Philippines_%F0%9F%87%B5%F0%9F%87%AD-4D9FFF?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location" />
+  <img src="https://img.shields.io/badge/Focus-UI%2FUX_%26_Web_Systems-FFD93D?style=for-the-badge&logo=figma&logoColor=black" alt="Focus" />
+</p>
 
 </div>
  
