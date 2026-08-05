@@ -16,19 +16,27 @@
  
 <!-- About Me -->
 <div align="center">
- 
-## 🌸 About Me
- 
-</div>
- 
 
-🎓  Student Developer from the Philippines 🇵🇭 
-💻  Passionate about Web Dev & Building Real-World Systems
-🎨  I love creating interactive UIs, dashboards & modern web apps
-📚  Currently exploring TypeScript, React, Supabase & Firebase
-⚡  Fun fact: I turn ideas into functional, responsive applications!
- 
----
+## 🌸 About Me
+
+</div>
+
+<table align="center" width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h3>✨ Who I Am</h3>
+      <p>🎓 <b>Student Developer</b> based in the <b>Philippines 🇵🇭</b></p>
+      <p>💻 Passionate about <b>Full-Stack Web Dev & Modern UIs</b></p>
+      <p>🎨 Focused on crafting <b>responsive, aesthetic & user-centric web apps</b></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🚀 What I'm Doing</h3>
+      <p>📚 Deepening expertise in <b>TypeScript, React, Supabase & Firebase</b></p>
+      <p>⚡ Building real-world systems & portfolio applications</p>
+      <p>💡 <i>"Turning complex ideas into functional digital experiences."</i></p>
+    </td>
+  </tr>
+</table>
  
 <!-- Socials -->
 <div align="center">
@@ -108,22 +116,9 @@
 
 ## 🏆 Highlights & Achievements
 
-<p align="center">
-  <a href="https://github.com/aziel123-de">
-    <img src="https://img.shields.io/badge/Role-Frontend_%26_Fullstack_Dev-FF6B9D?style=for-the-badge&logo=react&logoColor=white" alt="Role" />
-  </a>
-  <a href="https://github.com/aziel123-de?tab=repositories">
-    <img src="https://img.shields.io/badge/Projects-Interactive_Web_Apps-C44DFF?style=for-the-badge&logo=typescript&logoColor=white" alt="Projects" />
-  </a>
-  <a href="https://github.com/aziel123-de">
-    <img src="https://img.shields.io/badge/Status-Open_for_Opportunities-00D4AA?style=for-the-badge&logo=github&logoColor=white" alt="Status" />
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Location-Philippines_%F0%9F%87%B5%F0%9F%87%AD-4D9FFF?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location" />
-  <img src="https://img.shields.io/badge/Focus-UI%2FUX_%26_Web_Systems-FFD93D?style=for-the-badge&logo=figma&logoColor=black" alt="Focus" />
-</p>
+[![GitHub Commits](https://img.shields.io/badge/GitHub-Active_Developer-FF6B9D?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aziel123-de)
+[![Repositories](https://img.shields.io/badge/Projects-Web_%26_Mobile-C44DFF?style=for-the-badge&logo=react&logoColor=white)](https://github.com/aziel123-de?tab=repositories)
+[![Frontend Dev](https://img.shields.io/badge/Specialization-Frontend_%26_Fullstack-00D4AA?style=for-the-badge&logo=typescript&logoColor=white)](https://github.com/aziel123-de)
 
 </div>
  
