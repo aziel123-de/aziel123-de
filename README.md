@@ -105,11 +105,11 @@
  
 <!-- Trophies -->
 <div align="center">
- 
+
 ## 🏆 GitHub Trophies
- 
-<img src="https://github-profile-trophy-liard-delta.vercel.app/?username=aziel123-de&theme=algolia&no-frame=true&margin-w=8&column=7" />
- 
+
+<img src="https://github-profile-trophy-winning.vercel.app/?username=aziel123-de&theme=flat&no-frame=true" />
+
 </div>
  
 ---
