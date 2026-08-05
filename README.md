@@ -92,7 +92,7 @@
  
 ## 📈 Contribution Graph
  
-[![Hazel's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=aziel123-de&theme=react&area=true&hide_border=true)](https://github.com/aziel123-de)
+[![Hazel's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=aziel123-de&bg_color=fff0f7&color=C44DFF&line=FF6B9D&point=FFD93D&area=true&hide_border=true)](https://github.com/aziel123-de)
  
 </div>
  
