@@ -1,7 +1,7 @@
 <!-- Header Banner -->
 <div align="center">
  
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B9D,25:C44DFF,50:4D9FFF,75:00D4AA,100:FFD93D&height=220&section=header&text=Hazel%20Ann%20Sadangsal&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Frontend%20Developer%20%7C%20Student%20%7C%20PH%20%F0%9F%87%B5%F0%9F%87%AD&descSize=18&descAlignY=58&descColor=ffffff" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B9D,25:C44DFF,50:4D9FFF,75:00D4AA,100:FFD93D&height=220&section=header&text=Hazel%20Ann%20Sadangsal&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Frontend%20Developer%20%7C%20BSIT%20Graduate%20%7C%20PH%20%F0%9F%87%B5%F0%9F%87%AD&descSize=18&descAlignY=58&descColor=ffffff" />
  
 </div>
  
@@ -21,7 +21,7 @@
 
 <br/>
 
-<img src="https://raw.githubusercontent.com/aziel123-de/aziel123-de/main/.github/assets/about-me-container.svg?v=2" alt="Developer Profile" width="100%" />
+<img src="https://raw.githubusercontent.com/aziel123-de/aziel123-de/main/.github/assets/about-me-container.svg?v=3" alt="Developer Profile" width="100%" />
 
 </div>
  
