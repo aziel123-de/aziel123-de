@@ -21,7 +21,7 @@
 
 <br/>
 
-<img src="https://raw.githubusercontent.com/aziel123-de/aziel123-de/main/.github/assets/about-me-container.svg" alt="Developer Profile" width="100%" />
+<img src="https://raw.githubusercontent.com/aziel123-de/aziel123-de/main/.github/assets/about-me-container.svg?v=2" alt="Developer Profile" width="100%" />
 
 </div>
  
