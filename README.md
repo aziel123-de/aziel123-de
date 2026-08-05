@@ -128,7 +128,10 @@
 <!-- Snake Contribution -->
 <div align="center">
 
-## 🐍 Contribution Snake
+## 🐍 Contribution Snake (Past 12 Months)
+
+<p align="center"><i>Interactive contribution animation tracking activity across months & years</i></p>
+<br/>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aziel123-de/aziel123-de/output/github-contribution-grid-snake-dark.svg" />
