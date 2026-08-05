@@ -1,13 +1,14 @@
-<svg fill="none" viewBox="0 0 850 260" width="100%" xmlns="http://www.w3.org/2000/svg">
+<svg fill="none" viewBox="0 0 850 490" width="100%" xmlns="http://www.w3.org/2000/svg">
   <style>
     .bg { fill: #12101C; stroke: rgba(255, 255, 255, 0.12); stroke-width: 1.5; }
     .header-text { font-family: 'Fira Code', Consolas, Monaco, 'Courier New', monospace; font-size: 15px; font-weight: 700; fill: #E2E8F0; letter-spacing: 0.5px; }
-    .line-num { font-family: 'Fira Code', Consolas, Monaco, monospace; font-size: 14px; font-weight: 500; fill: #64748B; user-select: none; }
-    .content-text { font-family: 'Fira Code', 'Inter', -apple-system, BlinkMacSystemFont, sans-serif; font-size: 14px; font-weight: 500; fill: #E2E8F0; }
+    .para-text { font-family: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; font-size: 14.5px; font-weight: 400; fill: #CBD5E1; line-height: 1.6; }
+    .line-num { font-family: 'Fira Code', Consolas, Monaco, monospace; font-size: 13.5px; font-weight: 500; fill: #64748B; user-select: none; }
+    .code-text { font-family: 'Fira Code', 'Inter', -apple-system, BlinkMacSystemFont, monospace; font-size: 13.5px; font-weight: 500; fill: #E2E8F0; }
   </style>
 
   <!-- Card Background -->
-  <rect class="bg" width="850" height="260" rx="16" />
+  <rect class="bg" width="850" height="490" rx="16" />
 
   <!-- Window Dots -->
   <circle cx="36" cy="32" r="6.5" fill="#EF4444" />
@@ -17,26 +18,54 @@
   <!-- Header Title -->
   <text x="104" y="37" class="header-text">Developer Profile</text>
 
-  <!-- Divider -->
+  <!-- Main Divider -->
   <line x1="24" y1="56" x2="826" y2="56" stroke="rgba(255, 255, 255, 0.1)" stroke-width="1" />
 
+  <!-- Paragraph 1 -->
+  <text x="36" y="94" class="para-text">
+    Bachelor of Science in Information Technology graduate with internship experience in software
+  </text>
+  <text x="36" y="118" class="para-text">
+    development, manual testing, and UI/UX design.
+  </text>
+
+  <!-- Paragraph 2 -->
+  <text x="36" y="162" class="para-text">
+    I take pride in designing clean visual layouts and writing modular, maintainable code. I also enjoy
+  </text>
+  <text x="36" y="186" class="para-text">
+    conducting thorough website testing and QA to ensure top-notch usability.
+  </text>
+
+  <!-- Paragraph 3 -->
+  <text x="36" y="230" class="para-text">
+    Through clear technical documentation and collaboration, I transform complex requirements into
+  </text>
+  <text x="36" y="254" class="para-text">
+    seamless, intuitive web applications.
+  </text>
+
+  <!-- Secondary Sub-divider -->
+  <line x1="36" y1="284" x2="814" y2="284" stroke="rgba(255, 255, 255, 0.08)" stroke-dasharray="4 4" stroke-width="1" />
+
+  <!-- Code Highlight Lines -->
   <!-- Line 01 -->
-  <text x="36" y="94" class="line-num">01</text>
-  <text x="72" y="94" class="content-text">🎓 Student Developer from the Philippines 🇵🇭</text>
+  <text x="36" y="322" class="line-num">01</text>
+  <text x="72" y="322" class="code-text">🎓 Student Developer from the Philippines 🇵🇭</text>
 
   <!-- Line 02 -->
-  <text x="36" y="126" class="line-num">02</text>
-  <text x="72" y="126" class="content-text">💻 Passionate about Web Dev &amp; Building Real-World Systems</text>
+  <text x="36" y="354" class="line-num">02</text>
+  <text x="72" y="354" class="code-text">💻 Passionate about Web Dev &amp; Building Real-World Systems</text>
 
   <!-- Line 03 -->
-  <text x="36" y="158" class="line-num">03</text>
-  <text x="72" y="158" class="content-text">🎨 I love creating interactive UIs, dashboards &amp; modern web apps</text>
+  <text x="36" y="386" class="line-num">03</text>
+  <text x="72" y="386" class="code-text">🎨 I love creating interactive UIs, dashboards &amp; modern web apps</text>
 
   <!-- Line 04 -->
-  <text x="36" y="190" class="line-num">04</text>
-  <text x="72" y="190" class="content-text">📚 Currently exploring TypeScript, React, Supabase &amp; Firebase</text>
+  <text x="36" y="418" class="line-num">04</text>
+  <text x="72" y="418" class="code-text">📚 Currently exploring TypeScript, React, Supabase &amp; Firebase</text>
 
   <!-- Line 05 -->
-  <text x="36" y="222" class="line-num">05</text>
-  <text x="72" y="222" class="content-text">⚡ Fun fact: I turn ideas into functional, responsive applications!</text>
+  <text x="36" y="450" class="line-num">05</text>
+  <text x="72" y="450" class="code-text">⚡ Fun fact: I turn ideas into functional, responsive applications!</text>
 </svg>
