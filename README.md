@@ -19,24 +19,11 @@
 
 ## 🌸 About Me
 
-</div>
+<br/>
 
-<table align="center" width="100%">
-  <tr>
-    <td width="50%" valign="top">
-      <h3>✨ Who I Am</h3>
-      <p>🎓 <b>Student Developer</b> based in the <b>Philippines 🇵🇭</b></p>
-      <p>💻 Passionate about <b>Full-Stack Web Dev & Modern UIs</b></p>
-      <p>🎨 Focused on crafting <b>responsive, aesthetic & user-centric web apps</b></p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🚀 What I'm Doing</h3>
-      <p>📚 Deepening expertise in <b>TypeScript, React, Supabase & Firebase</b></p>
-      <p>⚡ Building real-world systems & portfolio applications</p>
-      <p>💡 <i>"Turning complex ideas into functional digital experiences."</i></p>
-    </td>
-  </tr>
-</table>
+<img src="https://raw.githubusercontent.com/aziel123-de/aziel123-de/main/.github/assets/about-me-container.svg" alt="Developer Profile" width="100%" />
+
+</div>
  
 <!-- Socials -->
 <div align="center">

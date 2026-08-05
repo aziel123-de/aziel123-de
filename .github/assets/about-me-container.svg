@@ -1,0 +1,46 @@
+<svg fill="none" viewBox="0 0 850 320" width="100%" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    .bg { fill: #12101C; stroke: rgba(255, 255, 255, 0.12); stroke-width: 1.5; }
+    .header-text { font-family: 'Fira Code', Consolas, Monaco, 'Courier New', monospace; font-size: 15px; font-weight: 700; fill: #E2E8F0; letter-spacing: 0.5px; }
+    .content-text { font-family: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif; font-size: 14.5px; font-weight: 400; fill: #CBD5E1; line-height: 1.6; }
+    .highlight { fill: #F472B6; font-weight: 600; }
+  </style>
+
+  <!-- Card Background -->
+  <rect class="bg" width="850" height="320" rx="16" />
+
+  <!-- Window Dots -->
+  <circle cx="36" cy="32" r="6.5" fill="#EF4444" />
+  <circle cx="56" cy="32" r="6.5" fill="#F59E0B" />
+  <circle cx="76" cy="32" r="6.5" fill="#10B981" />
+
+  <!-- Header Title -->
+  <text x="104" y="37" class="header-text">Developer Profile</text>
+
+  <!-- Divider -->
+  <line x1="24" y1="56" x2="826" y2="56" stroke="rgba(255, 255, 255, 0.1)" stroke-width="1" />
+
+  <!-- Paragraph 1 -->
+  <text x="36" y="96" class="content-text">
+    Bachelor of Science in Information Technology graduate with internship experience in software
+  </text>
+  <text x="36" y="120" class="content-text">
+    development, manual testing, and UI/UX design.
+  </text>
+
+  <!-- Paragraph 2 -->
+  <text x="36" y="168" class="content-text">
+    I take pride in designing clean visual layouts and writing modular, maintainable code. I also enjoy
+  </text>
+  <text x="36" y="192" class="content-text">
+    conducting thorough website testing and QA to ensure top-notch usability.
+  </text>
+
+  <!-- Paragraph 3 -->
+  <text x="36" y="240" class="content-text">
+    Through clear technical documentation and collaboration, I transform complex requirements into
+  </text>
+  <text x="36" y="264" class="content-text">
+    seamless, intuitive web applications.
+  </text>
+</svg>
