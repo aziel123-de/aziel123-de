@@ -108,7 +108,7 @@
  
 ## 🏆 GitHub Trophies
  
-<img src="https://github-profile-trophy.vercel.app/?username=aziel123-de&theme=algolia&no-frame=true&margin-w=8&column=7" />
+<img src="https://github-profile-trophy-liard-delta.vercel.app/?username=aziel123-de&theme=algolia&no-frame=true&margin-w=8&column=7" />
  
 </div>
  
