@@ -139,17 +139,6 @@
 </div>
 
 ---
-
-<!-- Featured Projects -->
-<div align="center">
-
-## 🚀 Featured Projects
-
-[![Hazel's Portfolio](https://github-readme-stats.shion.dev/api/pin/?username=aziel123-de&repo=Hazel-Website-Portfolio&theme=calm_pink&hide_border=true&bg_color=fff0f7&title_color=FF6B9D&text_color=555)](https://github.com/aziel123-de/Hazel-Website-Portfolio)
-
-</div>
- 
----
  
 <!-- Profile Views + Footer -->
 <div align="center">
