@@ -116,37 +116,37 @@
  
 <!-- Dev Quote -->
 <div align="center">
- 
+
 ## ✨ Dev Quote of the Day
- 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
- 
+
+<img src="https://readme-daily-quotes.vercel.app/api" />
+
 </div>
- 
+
 ---
- 
+
 <!-- Snake Contribution -->
 <div align="center">
- 
+
 ## 🐍 Contribution Snake
- 
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aziel123-de/aziel123-de/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/aziel123-de/aziel123-de/output/github-contribution-grid-snake.svg" />
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/aziel123-de/aziel123-de/output/github-contribution-grid-snake.svg" />
 </picture>
- 
+
 </div>
- 
+
 ---
- 
-<!-- Top Contributions -->
+
+<!-- Featured Projects -->
 <div align="center">
- 
-## 🔝 Top Contributions
- 
-<img src="https://github-contributor-stats.vercel.app/api?username=aziel123-de&limit=5&theme=tokyonight&combine_all_yearly_contributions=true&hide_border=true" />
- 
+
+## 🚀 Featured Projects
+
+[![Hazel's Portfolio](https://github-readme-stats.shion.dev/api/pin/?username=aziel123-de&repo=Hazel-Website-Portfolio&theme=calm_pink&hide_border=true&bg_color=fff0f7&title_color=FF6B9D&text_color=555)](https://github.com/aziel123-de/Hazel-Website-Portfolio)
+
 </div>
  
 ---
