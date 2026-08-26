@@ -1,0 +1,21 @@
+<svg fill="none" viewBox="0 0 850 3200" width="850" height="3200" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="none">
+  <defs>
+    <linearGradient id="wash" x1="80" y1="0" x2="780" y2="3200" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#FF6B9D" stop-opacity="0.12"/>
+      <stop offset="16%" stop-color="#C44DFF" stop-opacity="0.08"/>
+      <stop offset="33%" stop-color="#4D9FFF" stop-opacity="0.06"/>
+      <stop offset="50%" stop-color="#C44DFF" stop-opacity="0.07"/>
+      <stop offset="66%" stop-color="#00D4AA" stop-opacity="0.06"/>
+      <stop offset="83%" stop-color="#FF6B9D" stop-opacity="0.07"/>
+      <stop offset="100%" stop-color="#C44DFF" stop-opacity="0.05"/>
+    </linearGradient>
+    <linearGradient id="accentEdge" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#FF6B9D"/>
+      <stop offset="50%" stop-color="#C44DFF"/>
+      <stop offset="100%" stop-color="#00D4AA"/>
+    </linearGradient>
+  </defs>
+  <rect width="850" height="3200" fill="#12101C"/>
+  <rect width="850" height="3200" fill="url(#wash)"/>
+  <rect x="0" y="0" width="3" height="3200" fill="url(#accentEdge)" opacity="0.95"/>
+</svg>

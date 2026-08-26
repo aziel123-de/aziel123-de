@@ -1,0 +1,76 @@
+<svg fill="none" viewBox="0 0 850 440" width="100%" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="panelGrad" x1="0" y1="0" x2="650" y2="440" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#12101C"/>
+      <stop offset="35%" stop-color="#1A1424"/>
+      <stop offset="70%" stop-color="#16121F"/>
+      <stop offset="100%" stop-color="#15121F"/>
+    </linearGradient>
+    <linearGradient id="bgWash" x1="0" y1="52" x2="700" y2="440" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#FF6B9D" stop-opacity="0.12"/>
+      <stop offset="40%" stop-color="#C44DFF" stop-opacity="0.08"/>
+      <stop offset="100%" stop-color="#C44DFF" stop-opacity="0.06"/>
+    </linearGradient>
+    <linearGradient id="accentEdge" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#FF6B9D"/>
+      <stop offset="100%" stop-color="#C44DFF"/>
+    </linearGradient>
+  </defs>
+  <style>
+    .fill { fill: url(#panelGrad); }
+    .titlebar { fill: #16141F; }
+    .tab { fill: #1E1B2E; }
+    .path { font-family: 'Fira Code', Consolas, Monaco, monospace; font-size: 12px; fill: #64748B; }
+    .tab-text { font-family: 'Fira Code', Consolas, Monaco, monospace; font-size: 12px; font-weight: 600; fill: #E2E8F0; }
+    .name { font-family: 'Fira Code', Consolas, Monaco, monospace; font-size: 30px; font-weight: 700; fill: #F8FAFC; }
+    .role { font-family: 'Fira Code', Consolas, Monaco, monospace; font-size: 14px; font-weight: 600; fill: #FF6B9D; }
+    .meta { font-family: 'Fira Code', Consolas, Monaco, monospace; font-size: 12px; fill: #64748B; }
+    .section { font-family: 'Fira Code', Consolas, Monaco, monospace; font-size: 11px; font-weight: 700; fill: #A78BFA; letter-spacing: 2.5px; }
+    .gutter { font-family: 'Fira Code', Consolas, Monaco, monospace; font-size: 13px; fill: #3F3A52; }
+    .line { font-family: 'Fira Code', Consolas, Monaco, monospace; font-size: 13px; fill: #CBD5E1; }
+    .prompt { font-family: 'Fira Code', Consolas, Monaco, monospace; font-size: 14px; fill: #00D4AA; }
+  </style>
+
+  <!-- Open-bottom panel (seams into body) -->
+  <path class="fill" d="M16 0H834C842.837 0 850 7.163 850 16V440H0V16C0 7.163 7.163 0 16 0Z"/>
+  <rect x="0" y="52" width="850" height="388" fill="url(#bgWash)"/>
+  <rect x="0" y="52" width="3" height="388" fill="url(#accentEdge)" opacity="0.9"/>
+
+  <!-- Top + side border only -->
+  <path d="M0 440V16C0 7.163 7.163 0 16 0H834C842.837 0 850 7.163 850 16V440" stroke="rgba(255,255,255,0.14)" stroke-width="1.5" fill="none"/>
+
+  <path class="titlebar" d="M16 0H834C842.837 0 850 7.163 850 16V52H0V16C0 7.163 7.163 0 16 0Z"/>
+  <circle cx="28" cy="26" r="5.5" fill="#EF4444"/>
+  <circle cx="46" cy="26" r="5.5" fill="#F59E0B"/>
+  <circle cx="64" cy="26" r="5.5" fill="#10B981"/>
+
+  <rect class="tab" x="96" y="12" width="112" height="28" rx="6"/>
+  <text x="112" y="31" class="tab-text">profile.tsx</text>
+  <circle cx="192" cy="26" r="2.5" fill="#FF6B9D"/>
+  <text x="820" y="31" text-anchor="end" class="path">~/aziel123-de</text>
+  <line x1="0" y1="52" x2="850" y2="52" stroke="rgba(255,255,255,0.08)" stroke-width="1"/>
+
+  <text x="40" y="112" class="name">Hazel Ann Sadangsal</text>
+  <text x="40" y="146" class="prompt">&gt;</text>
+  <text x="58" y="146" class="role">Frontend &amp; Mobile Developer</text>
+  <text x="40" y="172" class="meta">BSIT Graduate  ·  Philippines  ·  Web, Systems &amp; Mobile Apps</text>
+
+  <line x1="40" y1="200" x2="810" y2="200" stroke="rgba(255,255,255,0.08)" stroke-width="1"/>
+
+  <text x="40" y="232" class="section">ABOUT</text>
+  <rect x="40" y="240" width="36" height="2" rx="1" fill="#A78BFA" opacity="0.7"/>
+
+  <line x1="72" y1="258" x2="72" y2="420" stroke="rgba(255,255,255,0.06)" stroke-width="1"/>
+  <rect x="28" y="254" width="794" height="28" rx="6" fill="rgba(255,107,157,0.06)"/>
+
+  <text x="44" y="273" class="gutter">01</text>
+  <text x="88" y="273" class="line">BS Information Technology Graduate from the Philippines</text>
+  <text x="44" y="305" class="gutter">02</text>
+  <text x="88" y="305" class="line">Passionate about Web, Systems &amp; Mobile Apps and real-world builds</text>
+  <text x="44" y="337" class="gutter">03</text>
+  <text x="88" y="337" class="line">I love creating interactive UIs, dashboards, systems &amp; mobile apps</text>
+  <text x="44" y="369" class="gutter">04</text>
+  <text x="88" y="369" class="line">Currently exploring TypeScript, React, Supabase &amp; Firebase</text>
+  <text x="44" y="401" class="gutter">05</text>
+  <text x="88" y="401" class="line">Fun fact: I turn ideas into functional, responsive applications</text>
+</svg>

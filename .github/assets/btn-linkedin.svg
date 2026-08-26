@@ -1,0 +1,14 @@
+<svg fill="none" viewBox="0 0 240 64" width="240" height="64" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    .card { fill: #1A1826; stroke: rgba(10,102,194,0.45); stroke-width: 1.5; }
+    .accent { fill: #0A66C2; }
+    .title { font-family: 'Fira Code', Consolas, Monaco, monospace; font-size: 13px; font-weight: 700; fill: #F8FAFC; }
+    .sub { font-family: 'Fira Code', Consolas, Monaco, monospace; font-size: 10px; fill: #64748B; }
+  </style>
+  <rect class="card" width="240" height="64" rx="12"/>
+  <rect class="accent" x="0" y="0" width="4" height="64" rx="2"/>
+  <circle cx="36" cy="32" r="14" fill="#0A66C2"/>
+  <path fill="#fff" d="M30.2 27.2h3.1v1.5h.04c.43-.82 1.48-1.68 3.05-1.68 3.26 0 3.86 2.15 3.86 4.94V38h-3.2v-5.4c0-1.29-.02-2.95-1.8-2.95-1.8 0-2.08 1.4-2.08 2.85V38h-3.2V27.2zm-5.2 0h3.2V38h-3.2V27.2zm1.6-5.2a1.85 1.85 0 110 3.7 1.85 1.85 0 010-3.7z"/>
+  <text x="62" y="30" class="title">LinkedIn</text>
+  <text x="62" y="46" class="sub">// professional profile</text>
+</svg>

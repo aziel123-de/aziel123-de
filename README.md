@@ -1,150 +1,111 @@
-<!-- Header Banner -->
-<div align="center">
- 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B9D,25:C44DFF,50:4D9FFF,75:00D4AA,100:FFD93D&height=220&section=header&text=Hazel%20Ann%20Sadangsal&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Frontend%20Developer%20%7C%20BSIT%20Graduate%20%7C%20PH%20%F0%9F%87%B5%F0%9F%87%AD&descSize=18&descAlignY=58&descColor=ffffff" />
- 
-</div>
- 
-<!-- Animated Typing -->
-<div align="center">
- 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=FF6B9D&center=true&vCenter=true&multiline=true&width=700&height=100&lines=%F0%9F%91%8B+Hey+there%2C+I'm+Hazel!;%F0%9F%8E%A8+Building+beautiful+web+experiences;%F0%9F%9A%80+Turning+ideas+into+reality)](https://git.io/typing-svg)
- 
-</div>
- 
----
- 
-<!-- About Me -->
+<!-- Single IDE container — continuous gradient through header, body, footer -->
 <div align="center">
 
-## 🌸 About Me
+<table width="100%" cellspacing="0" cellpadding="0" border="0" bgcolor="#15121F" background=".github/assets/container-gradient.svg?v=1">
+<tr>
+<td align="center" bgcolor="#15121F" background=".github/assets/container-gradient.svg?v=1" style="padding:0; margin:0; border:0; line-height:0; background:#15121F url('.github/assets/container-gradient.svg?v=1') no-repeat center / 100% 100%;">
+
+<img src=".github/assets/profile-header.svg?v=12" alt="Hazel Ann Sadangsal" width="100%" style="display:block; margin:0; padding:0; border:0; background:transparent;" />
+
+<div style="padding: 12px 20px 28px 20px; line-height: normal; font-size: 14px; background: transparent;">
 
 <br/>
 
-<img src="https://raw.githubusercontent.com/aziel123-de/aziel123-de/main/.github/assets/about-me-container.svg?v=3" alt="Developer Profile" width="100%" />
+<img src=".github/assets/section-connect.svg?v=4" alt="Connect" width="100%" style="display:block; margin:0; padding:0;" />
 
-</div>
- 
-<!-- Socials -->
-<div align="center">
- 
-## 🌈 Let's Connect!
- 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/Hazel%20Ann%20Sadangsal)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hazelann.dg.sadangsal@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aziel123-de)
- 
-</div>
- 
----
- 
-<!-- Tech Stack -->
-<div align="center">
- 
-## 🛠️ Tech Stack
- 
-### 🌐 Languages
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
- 
-### ⚡ Frameworks & Libraries
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
- 
-### ☁️ Cloud & Tools
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
- 
-</div>
- 
----
- 
-<!-- GitHub Stats -->
-<div align="center">
- 
-## 📊 GitHub Stats
- 
-<img width="49%" src="https://github-readme-stats.shion.dev/api?username=aziel123-de&theme=calm_pink&hide_border=true&include_all_commits=true&count_private=true&bg_color=fff0f7&title_color=FF6B9D&icon_color=C44DFF&text_color=555" />
-<img width="49%" src="https://streak-stats.demolab.com/?user=aziel123-de&theme=calm_pink&hide_border=true&background=fff0f7&ring=FF6B9D&fire=FFD93D&currStreakLabel=C44DFF" />
- 
-<br/>
- 
-<img width="42%" src="https://github-readme-stats.shion.dev/api/top-langs/?username=aziel123-de&theme=calm_pink&hide_border=true&layout=compact&bg_color=fff0f7&title_color=FF6B9D&text_color=555" />
- 
-</div>
- 
----
- 
-<!-- Activity Graph -->
-<div align="center">
- 
-## 📈 Contribution Graph
- 
-[![Hazel's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=aziel123-de&bg_color=fff0f7&color=C44DFF&line=FF6B9D&point=FFD93D&area=true&hide_border=true)](https://github.com/aziel123-de)
- 
-</div>
- 
----
- 
-<!-- Achievements & Highlights -->
-<div align="center">
-
-## 🏆 Highlights & Achievements
-
-[![GitHub Commits](https://img.shields.io/badge/GitHub-Active_Developer-FF6B9D?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aziel123-de)
-[![Repositories](https://img.shields.io/badge/Projects-Web_%26_Mobile-C44DFF?style=for-the-badge&logo=react&logoColor=white)](https://github.com/aziel123-de?tab=repositories)
-[![Frontend Dev](https://img.shields.io/badge/Specialization-Frontend_%26_Fullstack-00D4AA?style=for-the-badge&logo=typescript&logoColor=white)](https://github.com/aziel123-de)
-
-</div>
- 
----
- 
-<!-- Dev Quote -->
-<div align="center">
-
-## ✨ Dev Quote of the Day
-
-<img src="https://readme-daily-quotes.vercel.app/api" />
-
-</div>
-
----
-
-<!-- Snake Contribution -->
-<div align="center">
-
-## 🐍 Contribution Snake (Past 12 Months)
-
-<p align="center"><i>Interactive contribution animation tracking activity across months & years</i></p>
 <br/>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aziel123-de/aziel123-de/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/aziel123-de/aziel123-de/output/github-contribution-grid-snake.svg" />
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/aziel123-de/aziel123-de/output/github-contribution-grid-snake.svg" />
-</picture>
+<a href="https://linkedin.com/in/Hazel%20Ann%20Sadangsal"><img src=".github/assets/btn-linkedin.svg?v=1" alt="LinkedIn" height="64" /></a>
+<a href="mailto:hazelann.dg.sadangsal@gmail.com"><img src=".github/assets/btn-gmail.svg?v=1" alt="Gmail" height="64" /></a>
+<a href="https://github.com/aziel123-de"><img src=".github/assets/btn-github.svg?v=1" alt="GitHub" height="64" /></a>
+
+<br/><br/>
+
+<img src=".github/assets/section-tech.svg?v=2" alt="Tech Stack" width="100%" style="display:block; margin:0; padding:0;" />
+
+<br/>
+
+<img src=".github/assets/tech-label-languages.svg?v=1" alt="Languages" height="28" />
+<br/>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,python,java,c,cs" alt="Languages" />
+
+<br/>
+<img src=".github/assets/tech-label-frameworks.svg?v=1" alt="Frameworks" height="28" />
+<br/>
+<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,tailwind,dotnet" alt="Frameworks" />
+
+<br/>
+<img src=".github/assets/tech-label-tools.svg?v=1" alt="Cloud and tools" height="28" />
+<br/>
+<img src="https://skillicons.dev/icons?i=firebase,supabase,vercel,mysql,figma" alt="Cloud and tools" />
+
+<br/><br/>
+
+<img src=".github/assets/section-stats.svg?v=1" alt="GitHub Stats" width="100%" style="display:block; margin:0; padding:0;" />
+
+<br/>
+
+<img src=".github/assets/stats-label-overview.svg?v=1" alt="Overview" height="28" />
+<img src=".github/assets/stats-label-streak.svg?v=1" alt="Streak" height="28" />
+
+<br/>
+
+<img width="48%" src="https://github-readme-stats.shion.dev/api?username=aziel123-de&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=1A1826&title_color=FF6B9D&icon_color=C44DFF&text_color=CBD5E1" alt="GitHub stats" />
+<img width="48%" src="https://streak-stats.demolab.com/?user=aziel123-de&hide_border=true&background=1A1826&ring=FF6B9D&fire=FFD93D&currStreakLabel=C44DFF&sideLabels=94A3B8&currStreakNum=FF6B9D&sideNums=E2E8F0&dates=64748B" alt="GitHub streak" />
+
+<br/>
+<img src=".github/assets/stats-label-langs.svg?v=1" alt="Top languages" height="28" />
+<br/>
+<img width="48%" src="https://github-readme-stats.shion.dev/api/top-langs/?username=aziel123-de&layout=compact&hide_border=true&bg_color=1A1826&title_color=FF6B9D&text_color=CBD5E1" alt="Top languages" />
+
+<br/><br/>
+
+<img src=".github/assets/section-graph.svg?v=1" alt="Contribution Graph" width="100%" style="display:block; margin:0; padding:0;" />
+
+<br/>
+
+<a href="https://github.com/aziel123-de"><img src="https://activity-graph.vercel.app/graph?username=aziel123-de&bg_color=1A1826&color=C44DFF&line=FF6B9D&point=FFD93D&area=true&hide_border=true&custom_title=aziel123-de%20%2F%20activity" alt="Activity graph" width="100%" /></a>
+
+<br/><br/>
+
+<img src=".github/assets/section-highlights.svg?v=1" alt="Highlights" width="100%" style="display:block; margin:0; padding:0;" />
+
+<br/>
+
+<a href="https://github.com/aziel123-de"><img src=".github/assets/highlight-active.svg?v=2" alt="Active Developer" height="64" /></a>
+<a href="https://github.com/aziel123-de?tab=repositories"><img src=".github/assets/highlight-projects.svg?v=2" alt="Projects" height="64" /></a>
+<a href="https://github.com/aziel123-de"><img src=".github/assets/highlight-focus.svg?v=2" alt="Focus" height="64" /></a>
+
+<br/><br/>
+
+<img src=".github/assets/section-quote.svg?v=1" alt="Dev Quote" width="100%" style="display:block; margin:0; padding:0;" />
+
+<br/>
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Dev quote" width="90%" />
+
+<br/><br/>
+
+<img src=".github/assets/section-snake.svg?v=1" alt="Contribution Snake" width="100%" style="display:block; margin:0; padding:0;" />
+
+<br/>
+
+<img src=".github/assets/snake-caption.svg?v=1" alt="" width="100%" style="display:block;" />
+
+<img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/aziel123-de/aziel123-de/output/github-contribution-grid-snake-dark.svg" width="100%" style="display:block; margin:0 auto;" />
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=aziel123-de&style=flat-square&color=FF6B9D&label=Profile+Views" alt="Profile views" />
+
+<br/>
 
 </div>
 
----
- 
-<!-- Profile Views + Footer -->
-<div align="center">
- 
-![Profile Views](https://komarev.com/ghpvc/?username=aziel123-de&style=for-the-badge&color=FF6B9D&label=PROFILE+VIEWS)
- 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFD93D,25:00D4AA,50:4D9FFF,75:C44DFF,100:FF6B9D&height=120&section=footer" />
- 
+<img src=".github/assets/profile-footer.svg?v=12" alt="" width="100%" style="display:block; margin:0; padding:0; border:0;" />
+
+</td>
+</tr>
+</table>
+
 </div>

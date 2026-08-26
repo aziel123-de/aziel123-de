@@ -1,0 +1,19 @@
+<svg fill="none" viewBox="0 0 850 90" width="100%" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="wash" x1="0" y1="0" x2="850" y2="90" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#C44DFF" stop-opacity="0.09"/>
+      <stop offset="55%" stop-color="#FF6B9D" stop-opacity="0.06"/>
+      <stop offset="100%" stop-color="#15121F" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <style>
+    .section { font-family: 'Fira Code', Consolas, Monaco, monospace; font-size: 18px; font-weight: 700; fill: #A78BFA; letter-spacing: 4px; }
+    .hint { font-family: 'Fira Code', Consolas, Monaco, monospace; font-size: 14px; fill: #94A3B8; }
+  </style>
+  <rect width="850" height="90" fill="#15121F"/>
+  <rect width="850" height="90" fill="url(#wash)"/>
+  <rect x="0" y="0" width="3" height="90" fill="#C44DFF" opacity="0.9"/>
+  <text x="425" y="36" text-anchor="middle" class="section">CONTRIBUTION GRAPH</text>
+  <rect x="332" y="48" width="186" height="3" rx="1.5" fill="#A78BFA" opacity="0.8"/>
+  <text x="425" y="76" text-anchor="middle" class="hint">recent commit activity over time</text>
+</svg>

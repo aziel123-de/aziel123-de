@@ -1,0 +1,7 @@
+<svg fill="none" viewBox="0 0 240 36" width="240" height="36" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    .label { font-family: 'Fira Code', Consolas, Monaco, monospace; font-size: 12px; font-weight: 600; fill: #FF6B9D; }
+    .prefix { font-family: 'Fira Code', Consolas, Monaco, monospace; font-size: 12px; fill: #00D4AA; }
+  </style>
+  <text x="120" y="24" text-anchor="middle"><tspan class="prefix">&gt; </tspan><tspan class="label">overview</tspan></text>
+</svg>

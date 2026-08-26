@@ -1,0 +1,6 @@
+<svg fill="none" viewBox="0 0 850 28" width="100%" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    .hint { font-family: 'Fira Code', Consolas, Monaco, monospace; font-size: 11px; fill: #64748B; }
+  </style>
+  <text x="425" y="18" text-anchor="middle" class="hint">// interactive contribution animation</text>
+</svg>

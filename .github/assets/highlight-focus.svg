@@ -1,0 +1,14 @@
+<svg fill="none" viewBox="0 0 260 72" width="260" height="72" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    .card { fill: #1A1826; stroke: rgba(0,212,170,0.4); stroke-width: 1.5; }
+    .title { font-family: 'Fira Code', Consolas, Monaco, monospace; font-size: 12px; font-weight: 700; fill: #F8FAFC; }
+    .sub { font-family: 'Fira Code', Consolas, Monaco, monospace; font-size: 10px; fill: #64748B; }
+  </style>
+  <rect class="card" x="0.75" y="0.75" width="258.5" height="70.5" rx="12"/>
+  <rect x="0" y="12" width="4" height="48" rx="2" fill="#00D4AA"/>
+  <circle cx="38" cy="36" r="15" fill="#00D4AA"/>
+  <!-- code brackets icon -->
+  <path fill="#12101C" d="M34.2 28.5l-5.2 7.5 5.2 7.5h2.4l-5.2-7.5 5.2-7.5h-2.4zm5.6 0h2.4l5.2 7.5-5.2 7.5h-2.4l5.2-7.5-5.2-7.5z"/>
+  <text x="64" y="33" class="title">Frontend &amp; Fullstack</text>
+  <text x="64" y="49" class="sub">// specialization</text>
+</svg>

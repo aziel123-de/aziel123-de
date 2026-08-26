@@ -1,0 +1,29 @@
+<svg fill="none" viewBox="0 0 850 48" width="100%" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="footerWash" x1="0" y1="0" x2="700" y2="48" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#C44DFF" stop-opacity="0.06"/>
+      <stop offset="55%" stop-color="#00D4AA" stop-opacity="0.05"/>
+      <stop offset="100%" stop-color="#FF6B9D" stop-opacity="0.04"/>
+    </linearGradient>
+    <linearGradient id="accentEdge" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#C44DFF"/>
+      <stop offset="100%" stop-color="#00D4AA"/>
+    </linearGradient>
+  </defs>
+  <style>
+    .fill { fill: #12101C; }
+    .label { font-family: 'Fira Code', Consolas, Monaco, monospace; font-size: 11px; fill: #475569; }
+    .brand { font-family: 'Fira Code', Consolas, Monaco, monospace; font-size: 11px; font-weight: 600; fill: #94A3B8; }
+  </style>
+
+  <path class="fill" d="M0 0H850V32C850 40.837 842.837 48 834 48H16C7.163 48 0 40.837 0 32V0Z"/>
+  <path d="M0 0H850V32C850 40.837 842.837 48 834 48H16C7.163 48 0 40.837 0 32V0Z" fill="url(#footerWash)"/>
+  <rect x="0" y="0" width="3" height="48" fill="url(#accentEdge)" opacity="0.9"/>
+
+  <path d="M0 0V32C0 40.837 7.163 48 16 48H834C842.837 48 850 40.837 850 32V0" stroke="rgba(255,255,255,0.14)" stroke-width="1.5" fill="none"/>
+
+  <circle cx="28" cy="24" r="3" fill="#00D4AA"/>
+  <text x="40" y="28" class="brand">aziel123-de</text>
+  <text x="425" y="28" text-anchor="middle" class="label">built with curiosity</text>
+  <text x="822" y="28" text-anchor="end" class="label">EOF</text>
+</svg>

@@ -1,0 +1,14 @@
+<svg fill="none" viewBox="0 0 240 64" width="240" height="64" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    .card { fill: #1A1826; stroke: rgba(234,67,53,0.4); stroke-width: 1.5; }
+    .accent { fill: #EA4335; }
+    .title { font-family: 'Fira Code', Consolas, Monaco, monospace; font-size: 13px; font-weight: 700; fill: #F8FAFC; }
+    .sub { font-family: 'Fira Code', Consolas, Monaco, monospace; font-size: 10px; fill: #64748B; }
+  </style>
+  <rect class="card" width="240" height="64" rx="12"/>
+  <rect class="accent" x="0" y="0" width="4" height="64" rx="2"/>
+  <circle cx="36" cy="32" r="14" fill="#EA4335"/>
+  <path fill="#fff" d="M28 26.5h16c.8 0 1.5.7 1.5 1.5v12c0 .8-.7 1.5-1.5 1.5H28c-.8 0-1.5-.7-1.5-1.5V28c0-.8.7-1.5 1.5-1.5zm.6 2.2l7.4 5.2 7.4-5.2v-.7H28.6v.7zm14.9 9.8V30l-6.9 4.8c-.3.2-.8.2-1.2 0L28.6 30v8.5h14.9z"/>
+  <text x="62" y="30" class="title">Gmail</text>
+  <text x="62" y="46" class="sub">// send me an email</text>
+</svg>

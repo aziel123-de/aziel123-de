@@ -1,0 +1,14 @@
+<svg fill="none" viewBox="0 0 260 72" width="260" height="72" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    .card { fill: #1A1826; stroke: rgba(196,77,255,0.4); stroke-width: 1.5; }
+    .title { font-family: 'Fira Code', Consolas, Monaco, monospace; font-size: 12px; font-weight: 700; fill: #F8FAFC; }
+    .sub { font-family: 'Fira Code', Consolas, Monaco, monospace; font-size: 10px; fill: #64748B; }
+  </style>
+  <rect class="card" x="0.75" y="0.75" width="258.5" height="70.5" rx="12"/>
+  <rect x="0" y="12" width="4" height="48" rx="2" fill="#C44DFF"/>
+  <circle cx="38" cy="36" r="15" fill="#C44DFF"/>
+  <!-- folder icon -->
+  <path fill="#12101C" d="M28 30.5c0-.8.7-1.5 1.5-1.5h5.2l1.6 1.6H46c.8 0 1.5.7 1.5 1.5v11c0 .8-.7 1.5-1.5 1.5H29.5c-.8 0-1.5-.7-1.5-1.5v-12.6zm2 1.5v11h16v-9.5H35.2l-1.6-1.5H30z"/>
+  <text x="64" y="33" class="title">Web / Systems / Mobile</text>
+  <text x="64" y="49" class="sub">// projects and builds</text>
+</svg>
