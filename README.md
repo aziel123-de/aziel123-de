@@ -103,9 +103,10 @@
 
 ## 🏆 Highlights & Achievements
 
-[![GitHub Commits](https://img.shields.io/badge/GitHub-Active_Developer-FF6B9D?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aziel123-de)
-[![Repositories](https://img.shields.io/badge/Projects-Web_%26_Mobile-C44DFF?style=for-the-badge&logo=react&logoColor=white)](https://github.com/aziel123-de?tab=repositories)
-[![Frontend Dev](https://img.shields.io/badge/Specialization-Frontend_%26_Fullstack-00D4AA?style=for-the-badge&logo=typescript&logoColor=white)](https://github.com/aziel123-de)
+[![Total Contributions](https://img.shields.io/badge/Total_Contributions-1,056%2B_This_Year-FF6B9D?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aziel123-de)
+[![GitHub Commits](https://img.shields.io/badge/GitHub-Active_Developer-C44DFF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aziel123-de)
+[![Repositories](https://img.shields.io/badge/Projects-Web_%26_Mobile-00D4AA?style=for-the-badge&logo=react&logoColor=white)](https://github.com/aziel123-de?tab=repositories)
+[![Frontend Dev](https://img.shields.io/badge/Specialization-Frontend_%26_Fullstack-FFD93D?style=for-the-badge&logo=typescript&logoColor=black)](https://github.com/aziel123-de)
 
 </div>
  
