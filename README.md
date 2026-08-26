@@ -76,8 +76,12 @@
  
 ## 📊 GitHub Stats
  
-<img width="49%" src="https://github-stats-extended.vercel.app/api?username=aziel123-de&theme=calm_pink&hide_border=true&include_all_commits=true&bg_color=fff0f7&title_color=FF6B9D&icon_color=C44DFF&text_color=555&v=3" />
-<img width="49%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=aziel123-de&theme=calm_pink&hide_border=true&layout=compact&bg_color=fff0f7&title_color=FF6B9D&text_color=555&v=3" />
+<img width="49%" src="https://github-stats-extended.vercel.app/api?username=aziel123-de&theme=calm_pink&hide_border=true&include_all_commits=true&bg_color=fff0f7&title_color=FF6B9D&icon_color=C44DFF&text_color=555&cache_seconds=1800" />
+<img width="49%" src="https://streak-stats.demolab.com/?user=aziel123-de&theme=calm_pink&hide_border=true&background=fff0f7&ring=FF6B9D&fire=FFD93D&currStreakLabel=C44DFF" />
+ 
+<br/>
+ 
+<img width="42%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=aziel123-de&theme=calm_pink&hide_border=true&layout=compact&bg_color=fff0f7&title_color=FF6B9D&text_color=555&cache_seconds=1800" />
  
 </div>
  
@@ -86,9 +90,9 @@
 <!-- Activity Graph -->
 <div align="center">
  
-## 📈 Contribution Activity
+## 📈 Contribution Graph
  
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=aziel123-de&theme=zenburn&utcOffset=8" width="80%" />
+[![Hazel's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=aziel123-de&bg_color=fff0f7&color=C44DFF&line=FF6B9D&point=FFD93D&area=true&hide_border=true)](https://github.com/aziel123-de)
  
 </div>
  
